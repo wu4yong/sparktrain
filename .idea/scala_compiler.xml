@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="compileOrder" value="ScalaThenJava" />
+    <parameters>
+      <parameter value="-target:jvm-1.5" />
+    </parameters>
+    <profile name="Maven 1" modules="sparktrain">
+      <parameters>
+        <parameter value="-target:jvm-1.5" />
+      </parameters>
+    </profile>
+  </component>
+</project>
